@@ -22,4 +22,4 @@ In the project directory, you can run:
 
 Builds the app for production and start the server on port 3000.
 
-You can see how meta tags changes based on the requested URL, e.g. [http://localhost:3000/post?id=1](http://localhost:3000/post?id=1), [http://localhost:3000/post?id=2](http://localhost:3000/post?id=2)
+You can see how meta tags changes based on the requested URL, e.g. [http://localhost:3000/trading/0x73e7beeed5214a3fbdc8b76f2314dff51fe1f3d2](http://localhost:3000/post?id=1), [http://localhost:3000/trading/0x73e7beeed5214a3fbdc8b76f2314dff51fe1f3d2](http://localhost:3000/post?id=2)
